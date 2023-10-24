@@ -1,10 +1,6 @@
-I'm @taylorpetty, a PhD student at the University of North Carolina.
+I'm a statistical consultant in the life sciences, working with transcriptomic, microbiome, and gene-gene interaction data. I received my PhD from The University of North Carolina at Chapel Hill where my dissertation topic was forensic DNA mixture deconvolution.
 
-My dissertation topic is forensic DNA mixture deconvolution.
-
-I'm interested in statistical methods and software related to genetic sequence data.
-
-I can be reached at tmpetty@live.unc.edu.
+I mainly work in Python and R, but my first programming experience was in C++, and I have interest in lower-level languages to optimize scientific algorithms for speed.
 
 <!---
 taylorpetty/taylorpetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
